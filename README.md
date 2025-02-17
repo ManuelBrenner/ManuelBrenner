@@ -6,6 +6,7 @@ My research interests also include the study of **creativity in AI**, with appli
 
 ## Research and Main Publications
 
+All our code is developed on private gitlabs, and published under our public github accounts for the Durstewitz Lab (https://github.com/DurstewitzLab) and HUMML Lab (https://github.com/humml-lab/).
 Here are some of the repositories that highlight my contributions in **dynamical systems modeling**, **time series analysis**, and **AI**:
 
 - **[dendPLRNN: Tractable Dendritic RNNs for Reconstructing Nonlinear Dynamical Systems](https://github.com/DurstewitzLab/dendPLRNN)** — This repository contains the code for our work on dendritic piecewise linear recurrent neural networks for nonlinear dynamical systems reconstruction.
